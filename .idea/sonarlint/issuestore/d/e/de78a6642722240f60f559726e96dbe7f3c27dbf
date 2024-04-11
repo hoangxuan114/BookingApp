@@ -1,0 +1,15 @@
+
+J
+java:S1604'"(Make this anonymous inner class a lambda(¤á·Îÿÿÿÿÿ8ıœÑú0
+E
+java:S16048"(Make this anonymous inner class a lambda(³Ö×•8şœÑú0
+J
+java:S16041"(Make this anonymous inner class a lambda(ºÁöïûÿÿÿÿ8şœÑú0
+n	java:S116"RRename this field "Sign_Up" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºİ“8©œÑú0
+x	java:S116"WRename this field "Email_intput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßî‡’ıÿÿÿÿ8©œÑú0
+u	java:S116"YRename this field "password_Input" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ä 8©œÑú0
+{	java:S116"ZRename this field "password_Input2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŸÑ‚üÿÿÿÿ8©œÑú0
+S
+java:S1874"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD8ºœÑú0
+S
+java:S1874"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD8»œÑú0

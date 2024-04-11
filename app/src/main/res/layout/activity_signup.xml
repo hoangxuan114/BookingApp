@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:exported="true">
+    <androidx.cardview.widget.CardView
+            android:id="@+id/my_cardview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="4dp"
+            app:cardUseCompatPadding="true" android:layout_marginTop="16dp" android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp" android:layout_marginBottom="16dp">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:orientation="vertical">
+
+    <ImageView
+            android:id="@+id/icon"
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bus_image_1"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"/>
+
+    <EditText
+            android:layout_marginTop="16dp"
+            android:id="@+id/editTextEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:layout_below="@id/icon" />
+
+    <EditText
+            android:id="@+id/editTextPass1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Mật khẩu"
+            android:inputType="textPassword"
+            android:layout_below="@id/editTextEmail"/>
+
+
+    <EditText
+            android:id="@+id/editTextPass2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Xác nhận mật khẩu"
+            android:inputType="textPassword"
+            android:layout_below="@id/editTextPass1" />
+    <CheckBox
+            android:layout_marginTop="16dp"
+            android:id="@+id/show_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hiển thị mật khẩu"
+            android:layout_below="@id/editTextPass2"/>
+    <Button
+            android:layout_marginTop="16dp"
+            android:id="@+id/buttonSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonshape"
+            android:textColor="#ffffff"
+            android:text="đăng ký"
+            android:layout_below="@id/show_password" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+
+</RelativeLayout>

@@ -1,0 +1,47 @@
+
+e
+java:S1192~"HDefine a constant instead of duplicating this literal "calibri" 5 times.(Œéñæ8É¨âÿ‚1
+E
+java:S1604Á"(Make this anonymous inner class a lambda(’º¯R8É¨âÿ‚1
+S
+java:S1874!"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD8´«âÿ‚1
+S
+java:S1874!"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD8´«âÿ‚1
+M
+java:S1481E"0Remove this unused "foundResult" local variable.(«²‹Ì8¸«âÿ‚1
+X
+java:S1117H"6Rename "to" which hides the field declared at line 27.(’¢ããùÿÿÿÿ8¸«âÿ‚1
+^
+java:S1117R"<Rename "cardView" which hides the field declared at line 25.(ç„Íçøÿÿÿÿ8¹«âÿ‚1
+r
+java:S3252V"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ðÂþÿÿÿÿ8º«âÿ‚1
+m
+java:S3252W"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ûë‰8º«âÿ‚1
+r
+java:S3252g"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ðÂþÿÿÿÿ8»«âÿ‚1
+m
+java:S3252h"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ûë‰8»«âÿ‚1
+r
+java:S3252o"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ðÂþÿÿÿÿ8¼«âÿ‚1
+r
+java:S3252y"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ðÂþÿÿÿÿ8¿«âÿ‚1
+m
+java:S3252z"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ûë‰8¿«âÿ‚1
+s
+java:S3252‚"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ðÂþÿÿÿÿ8À«âÿ‚1
+n
+java:S3252ƒ"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ûë‰8À«âÿ‚1
+s
+java:S3252‹"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ðÂþÿÿÿÿ8À«âÿ‚1
+n
+java:S3252Œ"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ûë‰8À«âÿ‚1
+s
+java:S3252™"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ðÂþÿÿÿÿ8Á«âÿ‚1
+s
+java:S3252¡"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ðÂþÿÿÿÿ8Â«âÿ‚1
+n
+java:S3252¢"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ûë‰8Â«âÿ‚1
+s
+java:S3252®"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ðÂþÿÿÿÿ8Ã«âÿ‚1
+n
+java:S3252¯"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ûë‰8Ä«âÿ‚1

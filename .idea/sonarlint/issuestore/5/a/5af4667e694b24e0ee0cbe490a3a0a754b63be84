@@ -1,0 +1,29 @@
+
+¬
+java:S1192D"‰Define a constant instead of duplicating this literal "https://doancs3-a062d-default-rtdb.asia-southeast1.firebasedatabase.app/" 4 times.(§ü®½ıÿÿÿÿ8ÌæĞ”ƒ1
+h
+java:S1192D"FDefine a constant instead of duplicating this literal "users" 4 times.(§ü®½ıÿÿÿÿ8ÌæĞ”ƒ1
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åáÌ‚8ÌÜĞú0
+J
+java:S1604:"(Make this anonymous inner class a lambda(¶Óì±ûÿÿÿÿ8ÍÜĞú0
+J
+java:S16044"(Make this anonymous inner class a lambda(ğšˆÁÿÿÿÿÿ8ÍÜĞú0
+E
+java:S1604~"(Make this anonymous inner class a lambda(ˆÙáà8¡ãƒ”ƒ1
+J
+java:S1604s"(Make this anonymous inner class a lambda(“½æüÿÿÿÿ8¡ãƒ”ƒ1
+K
+java:S1604´"(Make this anonymous inner class a lambda(«Ø…àúÿÿÿÿ8¡ãƒ”ƒ1
+m	java:S116"QRename this field "SignIn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¡îˆ8İĞú0
+r	java:S116 "QRename this field "SignUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿çÅéÿÿÿÿÿ8İĞú0
+t	java:S116!"XRename this field "Google_SignIn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‘ø¨8İĞú0
+X	java:S125"<This block of commented-out lines of code should be removed.(¿‡8˜İĞú0
+t
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¨Œşÿÿÿÿ8®®ó“ƒ1
+S
+java:S1874'"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD8¸İĞú0
+S
+java:S1874'"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±ùËD8¸İĞú0
+[
+java:S1874z">Remove this use of "startActivityForResult"; it is deprecated.(ØãÂà8Úãƒ”ƒ1
+Y	java:S125®"<This block of commented-out lines of code should be removed.(¶Ô¨†8Üãƒ”ƒ1
